@@ -1,10 +1,13 @@
-title: cardano glow blog
+title: Cardano Glow Blog
 author: Brian Glogower
 email: xbglowx@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: |
+  Blog for the Glow Cardano Stake Pool
+
+  Name: Glow Stake Pool
+  Ticker: GLOW
+  Pool ID: 5dc1f763f14baaabc8d14aa9c0717e8d4662e4d16b2e10095d7ec78b
+
 theme: minima
 
 # social links

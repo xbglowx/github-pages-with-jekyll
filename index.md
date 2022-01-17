@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my cardano blog"
+title: "Welcome to the Glow Cardano Stake Pool Blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Thanks for stopping by!
