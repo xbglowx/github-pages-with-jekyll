@@ -14,4 +14,4 @@ theme: minima
 twitter_username: cardanoglow
 github_username:  xbglowx
 
-show_excerpts: true # set to false to remove excerpts on the homepage
+show_excerpts: false
