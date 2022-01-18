@@ -3,15 +3,10 @@ author: Brian Glogower
 email: xbglowx@gmail.com
 description: |
   Blog for the Glow Cardano Stake Pool
-
-  Name: Glow Stake Pool
-  Ticker: GLOW
-  Pool ID: 5dc1f763f14baaabc8d14aa9c0717e8d4662e4d16b2e10095d7ec78b
-
+show_excerpts: false
 theme: minima
+url: https://cardano.xbglowx.com
 
 # social links
 twitter_username: cardanoglow
 github_username:  xbglowx
-
-show_excerpts: false
