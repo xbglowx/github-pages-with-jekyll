@@ -1,12 +1,12 @@
-title: Cardano Glow Blog
+title: Cardano Glow Stake Blog
 author: Brian Glogower
-email: xbglowx@gmail.com
+email: brian@glogower.org
 description: |
   Blog for the Glow Cardano Stake Pool
 show_excerpts: false
 theme: minima
-url: https://cardano.xbglowx.com
+url: https://www.glowstake.com
 
 # social links
-twitter_username: cardanoglow
+twitter_username: glowstake
 github_username:  xbglowx
