@@ -8,8 +8,11 @@ theme: minima
 url: https://www.glowstake.com
 
 # social links
-twitter_username: glowstake
+facebook_username: glowstake
 github_username:  xbglowx
+instagram_username: glowstake
+telegram_username: https://t.me/+_xpsJKkP2XA0ZTJh
+twitter_username: glowstake
 
 plugins:
  - jekyll-feed
