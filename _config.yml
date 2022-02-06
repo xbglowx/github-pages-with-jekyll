@@ -7,13 +7,9 @@ show_excerpts: false
 theme: minima
 url: https://www.glowstake.com
 
-minima:
-  social_links:
-    facebook: Glow Stake
-    github:  xbglowx
-    instagram: glowstake
-    telegram: Glow Stake
-    twitter: glowstake
+# social links
+twitter_username: glowstake
+github_username:  xbglowx
 
 plugins:
  - jekyll-feed
