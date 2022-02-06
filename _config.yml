@@ -10,3 +10,7 @@ url: https://www.glowstake.com
 # social links
 twitter_username: glowstake
 github_username:  xbglowx
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
