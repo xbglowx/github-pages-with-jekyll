@@ -1,5 +1,5 @@
 ---
-title: "Welcome to the Glow Cardano Stake Pool Blog"
+title: "Welcome to the Cardano Glow Stake Pool Blog"
 ---
 Thanks for stopping by!
 
